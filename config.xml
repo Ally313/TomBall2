@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
-<widget id="UTM" version="1.0.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="UTM Assignment" version="1.0.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 	<name>Tom Ball</name>
 	<description>Assignment 2</description>
 	<author email="allypanchoo@yahoo.com">Ally Abbas Sheik Panchoo</author>
@@ -30,7 +30,7 @@
 	<plugin name="cordova-plugin-statusbar" />
 	<plugin name="cordova-plugin-whitelist" />
 	<plugin name="cordova-plugin-wkwebview-engine" />
-        <plugin name="cordova-plugin-admob-free"><variable name="ADMOB_APP_ID" value="ca-app-pub-5198713134726274~848147718"/></plugin>
+        <plugin name="cordova-plugin-admob-free"><variable name="ADMOB_APP_ID" value="ca-app-pub-7229345245156466/3277872010"/></plugin>
 
 
 	<engine name="ios" />
